@@ -2,7 +2,7 @@
   "name": "deploy-mglcloud",
   "version": "1.0.0",
   "scripts": {
-    "start": "node hello_world_express.js"
+    "start": "node hello-world-express.js"
   },
   "dependencies": {
     "express": "^4.21.1"
